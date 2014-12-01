@@ -19,26 +19,52 @@ Once the project moves into development, the press release can be used as a touc
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
+  Color Trail
+
+
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+  For fun-loving chrome users who want to add some extra color to their web-browsing experience.
+
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+  This is a chrome extension that allows the user to customize a trail of color that will follow their cursor around the page while they navigate through the internet.
+
+
 ## Problem ##
   > Describe the problem your product solves.
+  
+  This product solves the problem of dull web-browsing.
+
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
 
+  Color trail allows the user to inject just the right amount of color into their web-browsing experience to brighten things up.
+
+
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+
+  "We are excited to begin production on Color Trail, and continue to produce new customizations for the trail after its release."
+
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
 
+  Download the chrome extension, then click on the button by your address bar if you want to customize the color trail.
+
+
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
+  "I installed Color Trail in my mom's web browser, and she thought that colorful viruses were chasing her mouse pointer. 5 stars!"
+
+
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+
+  For more unique and colorful experiences, try combining this extension with a color inverter or other extension that modifies the browser's colors.
