@@ -3,10 +3,13 @@
 
   "name": "Color Trail",
   "description": "This extension adds a trail of color behind your mouse pointer.",
-  "version": "1.1",
+  "version": "1.2",
+
+  "options_page" : "options.html",
 
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
 
   "background": {
